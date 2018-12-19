@@ -6,4 +6,9 @@ public class TestGit {
         System.out.println("22222222");
         System.out.println("3333");
     }
+    public void test2(){
+        System.out.println("xxx");
+        System.out.println("yyy");
+        System.out.println("zzz");
+    }
 }
